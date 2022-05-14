@@ -1,0 +1,13 @@
+
+.vegetable-card {
+    width: 23%;
+    padding: 15px;
+    border: 2px solid rgb(197, 191, 191);
+    border-radius: 7px;
+    margin: 10px;
+}
+
+.vegetable-card-image {
+    width: 70%;
+    height: 70%;
+}
